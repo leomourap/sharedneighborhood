@@ -2,7 +2,7 @@ import pandas as pd
 import sys
 
 try:
-    df = pd.read_csv(str(sys.argv[1]))
+    df = pd.read_csv(str(sys.argv[1])) #read dataframe.csv
 except:
     df = pd.read_csv(input("Blast/NCRF GFF extraction output: "))
 
