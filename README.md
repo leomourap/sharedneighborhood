@@ -1,4 +1,4 @@
-# sharedneighborhood
+# sharedneighborhood.py
  
 Intended use: compare annotation data between two gff extraction outputs with the objective of detect shared neighborhood between DNA sequences in different genome / long reads samples.
 
